@@ -7,7 +7,9 @@
 
 # Introduction to GitHub
 
-_Get started using GitHub in less than an hour._
+
+This repo was forked for use with the subject **QBUS5010 - Introduction to Dashboarding and Data Visualisation** taught at the [University of Sydney](sydney.edu.au).
+
 
 <!-- 
   <<< Author notes: Start of the course >>> 
